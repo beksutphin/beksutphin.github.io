@@ -41,14 +41,14 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
+  - title: instagram
+    url: https://www.instagram.com/bekbehindthecamera?igsh=ZDZjNjJvYm1uZDhj
+  - title: linkedin
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/beksutphin
 
 # Postal address (add as many lines as necessary)
 address:
